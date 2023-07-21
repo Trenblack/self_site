@@ -8,5 +8,5 @@ permalink: /
 
 Tren Black test.
 
-___
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" data-canonical-src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/Fu6X5eBpwKs" title="Australians Are SICK Of This Koala Joke | Bonus Jokes Removed from Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
