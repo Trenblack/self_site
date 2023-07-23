@@ -11,6 +11,10 @@
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
+header_pages:
+  - index.md
+  - about.md
+
 plugins:
   - jekyll-seo-tag
 
