@@ -11,6 +11,6 @@ I've been capturing video professionally since 2019 as a former [YouTuber](https
 
 I've been focused on Stand Up specifically since graduating with my B.S in Mathematics in May 2023. Previously, I worked as a software engineer at Instagram. If you've ever gotten that notifications that say "two years ago today, you did this" while resurfacing an old photo, just know that I built that. I've also worked as an engineer at Amazon.
 
-I'm currently working on producing my own show, Drunkalogues: Standup Comedy meets Trauma Dumping. Later this year, I will be directing, filming, and editing a special for one of the best comedians in all of Arizona.
+I'm currently working on producing my own show, Traumady: Standup Comedy meets Trauma Dumping. Later this year, I will be directing, filming, and editing a special for one of the best comedians in all of Arizona.
 
 [Check out some demos!]({% link about.md %})

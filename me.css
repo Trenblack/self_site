@@ -12,3 +12,18 @@
     width: 100%;
     height: 100%;
 }
+
+.responsive-video-vert iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.responsive-video-vert {
+    position: relative;
+    padding-top: 177.77%; /* 9:16 Aspect Ratio (divide 16 by 9 = 1.7777) */
+    overflow: hidden;
+    width: 100%;
+}
